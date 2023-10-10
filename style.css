@@ -48,7 +48,7 @@ title{
     width:50%;
     height:10%;
     left:50%;
-    display:flex;
+    
 
 
 }
@@ -110,7 +110,7 @@ li.ros{
 .level5{
     list-style-type:none;
     padding-left:0;
-    display:flex;
+    
 }
 .fa-star{
     color:#ffc107;
